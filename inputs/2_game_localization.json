@@ -1,0 +1,12 @@
+{
+  "target_lang": "English",
+  "glossary": {
+    "माया कवच": "Aether Barrier",
+    "पुनः लोड": "Recharge Window"
+  },
+  "lines": [
+    "<color=#FFD700>गंभीर प्रहार!</color> {player_name} ने माया कवच से [999] क्षति पहुँचाई।",
+    "कौशल <b>अग्नि बाण</b> अभी पुनः लोड पर है: %d सेकंड शेष।",
+    "<color=#00E5FF>[सिस्टम]</color> {player_name} ने पुनः लोड के दौरान माया कवच सक्रिय किया।"
+  ]
+}

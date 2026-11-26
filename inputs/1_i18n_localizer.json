@@ -1,0 +1,14 @@
+{
+  "app": {
+    "title": "CloudSync Pro",
+    "welcome": "Welcome back, <strong>{{username}}</strong>! You have %d unread alerts."
+  },
+  "billing": {
+    "plan_summary": "Your %s plan renews on {{renewal_date}} for ${{amount}}.",
+    "cancel_prompt": "Are you sure you want to pause auto-renewal for {{workspace}}?"
+  },
+  "errors": {
+    "rate_limit": "Too many requests. Retry in %d seconds.",
+    "upload_failed": "Could not upload {{file_name}} (%d MB limit exceeded)."
+  }
+}
